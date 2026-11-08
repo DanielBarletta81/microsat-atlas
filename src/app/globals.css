@@ -1,0 +1,4 @@
+* { box-sizing: border-box; }
+html { color-scheme: dark; }
+body { margin: 0; background: #0a0c0f; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
